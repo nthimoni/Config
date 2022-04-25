@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/mnt/nfs/homes/nthimoni/.vim/plugged/gruvbox'
+let g:netrw_dirhist_0='/mnt/nfs/homes/nthimoni/.vim/plugged/gruvbox/autoload'
+let g:netrw_dirhist_9='/mnt/nfs/homes/nthimoni/.vim/plugged/gruvbox'
+let g:netrw_dirhist_8='/mnt/nfs/homes/nthimoni/.vim/plugged/gruvbox/autoload'
+let g:netrw_dirhist_7='/mnt/nfs/homes/nthimoni/.vim/plugged/gruvbox'
+let g:netrw_dirhist_6='/mnt/nfs/homes/nthimoni/.vim/plugged'
+let g:netrw_dirhist_5='/mnt/nfs/homes/nthimoni/.vim'
+let g:netrw_dirhist_4='/mnt/nfs/homes/nthimoni/.vim/autoload'
+let g:netrw_dirhist_3='/mnt/nfs/homes/nthimoni/.vim'
+let g:netrw_dirhist_2='/mnt/nfs/homes/nthimoni/.vim/colors'
